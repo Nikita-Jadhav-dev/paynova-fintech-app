@@ -5,7 +5,8 @@
 PayNova is a modern fintech payment platform inspired by PhonePe, Google Pay, Paytm, Wise, and Razorpay. It enables secure digital payments, wallet management, QR-based transactions, banking integration, transaction tracking, and financial analytics through a scalable full-stack architecture.
 The project is designed to demonstrate enterprise-level backend development using Java Spring Boot, secure payment processing, and modern frontend technologies.
 
-**✨ Key Features**
+## **✨ Key Features**
+
 🔐 Authentication & Security
 User Registration & Login
 JWT Authentication
@@ -15,19 +16,21 @@ Password Encryption using BCrypt
 Secure API Access
 CORS & Security Configuration
 
-👤 User Management
-Profile Management
-User Verification
-Beneficiary Management
-Account Settings
+### **👤 User Management**
 
-💳 Digital Wallet
+- User Registration
+- User Login & Authentication
+- Password Reset & Recovery
+- Role-Based Access Control
+- User Account Management
+
+### **💳 Digital Wallet**
 Wallet Creation
 Wallet Balance Management
 Credit & Debit Operations
 Wallet Transaction History
 
-💸 Payments
+### **💸 Payments**
 Send Money
 Receive Money
 Wallet-to-Wallet Transfers
@@ -35,29 +38,29 @@ QR Code Payments
 Payment Requests
 Transaction Tracking
 
-🏦 Banking Integration
+### **🏦 Banking Integration**
 Add Bank Accounts
 Link Multiple Accounts
 Bank Verification Workflow
 
-💳 Card Management
+### **💳 Card Management**
 Add Cards
 Card Tokenization
 Secure Card Storage
 Card Management Dashboard
 
-📊 Analytics
+### **📊 Analytics*
 Spending Analytics
 Monthly Reports
 Income vs Expense Tracking
 Financial Insights Dashboard
 
-🔔 Notifications
+### **🔔 Notifications**
 Payment Notifications
 Transaction Alerts
 Account Activity Updates
 
-🛡️ Security Features
+### **🛡️ Security Features**
 JWT Access Tokens
 Refresh Tokens
 AES Encryption
@@ -66,7 +69,8 @@ Audit Logging
 Fraud Detection Foundation
 Secure Payment Processing Design
 
-**📈 Future Enhancements**
+## **📈 Future Enhancements**
+
 UPI Integration
 AI-Based Fraud Detection
 Real-Time Payment Monitoring
@@ -76,6 +80,7 @@ Mobile Application
 Kubernetes Deployment
 CI/CD Pipeline
 
-**👨‍💻 Author**
+## **👨‍💻 Author**
+
 Nikita Jadhav
 Java Backend Developer | Spring Boot Developer | Fintech Enthusiast
