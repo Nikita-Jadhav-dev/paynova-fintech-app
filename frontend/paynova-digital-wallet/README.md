@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+## 🚀PayNova - Digital Wallet & Fintech Payment Platform
 
-## Project info
+## 📌Overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+PayNova is a modern fintech payment platform inspired by PhonePe, Google Pay, Paytm, Wise, and Razorpay. It enables secure digital payments, wallet management, QR-based transactions, banking integration, transaction tracking, and financial analytics through a scalable full-stack architecture.
+The project is designed to demonstrate enterprise-level backend development using Java Spring Boot, secure payment processing, and modern frontend technologies.
 
-## How can I edit this code?
+**✨ Key Features**
+🔐 Authentication & Security
+User Registration & Login
+JWT Authentication
+Refresh Token Mechanism
+Role-Based Access Control (RBAC)
+Password Encryption using BCrypt
+Secure API Access
+CORS & Security Configuration
 
-There are several ways of editing your application.
+👤 User Management
+Profile Management
+User Verification
+Beneficiary Management
+Account Settings
 
-**Use Lovable**
+💳 Digital Wallet
+Wallet Creation
+Wallet Balance Management
+Credit & Debit Operations
+Wallet Transaction History
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+💸 Payments
+Send Money
+Receive Money
+Wallet-to-Wallet Transfers
+QR Code Payments
+Payment Requests
+Transaction Tracking
 
-Changes made via Lovable will be committed automatically to this repo.
+🏦 Banking Integration
+Add Bank Accounts
+Link Multiple Accounts
+Bank Verification Workflow
 
-**Use your preferred IDE**
+💳 Card Management
+Add Cards
+Card Tokenization
+Secure Card Storage
+Card Management Dashboard
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📊 Analytics
+Spending Analytics
+Monthly Reports
+Income vs Expense Tracking
+Financial Insights Dashboard
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🔔 Notifications
+Payment Notifications
+Transaction Alerts
+Account Activity Updates
 
-Follow these steps:
+🛡️ Security Features
+JWT Access Tokens
+Refresh Tokens
+AES Encryption
+BCrypt Password Hashing
+Audit Logging
+Fraud Detection Foundation
+Secure Payment Processing Design
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**📈 Future Enhancements**
+UPI Integration
+AI-Based Fraud Detection
+Real-Time Payment Monitoring
+Multi-Currency Support
+Payment Gateway Integration
+Mobile Application
+Kubernetes Deployment
+CI/CD Pipeline
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**👨‍💻 Author**
+Nikita Jadhav
+Java Backend Developer | Spring Boot Developer | Fintech Enthusiast
